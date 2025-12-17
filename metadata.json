@@ -1,0 +1,5 @@
+{
+  "name": "ResumeTailor",
+  "description": "An intelligent resume tailoring application that generates custom Markdown resumes based on your profile and specific job descriptions.",
+  "requestFramePermissions": []
+}
